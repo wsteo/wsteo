@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Pronouns: He/Him
+
+I'm currently learning
+- Object Oriented Programming (Using C++)
+
+<!--
+How to reach me:
+Linkedin:
+-->
