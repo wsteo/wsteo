@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm currently learning
 - Object Oriented Programming (Using C++)
+- Memory Management with C++
 
 <!--
 How to reach me:
